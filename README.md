@@ -18,6 +18,6 @@ Also: a [senior-bar engineering playbook](https://github.com/BhagyashriT/coding-
 
 - **Ex-Amazon, SDE 2** — backend for ad serving at massive scale (millions of devices, ~$100M revenue impact)
 - Deep in **distributed systems**: consistent hashing, replication, consensus, event-driven architectures
-- Currently preparing for senior/staff backend roles in **AI platform, data, cloud, and security** lanes
+- Currently preparing for backend engineering roles in **AI platform, data, cloud, and security** lanes
 
 🌐 Portfolio: [bhagyashrit.github.io](https://bhagyashrit.github.io)
